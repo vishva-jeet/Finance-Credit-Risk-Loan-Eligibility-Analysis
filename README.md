@@ -129,7 +129,3 @@ Large datasets and generated model files can be kept outside Git when they are n
 **Vishvajeet Kumar**
 
 GitHub: [vishva-jeet](https://github.com/vishva-jeet/Finance-Credit-Risk-Loan-Eligibility-Analysis)
-
-## 📄 License
-
-Add an appropriate license after deciding how the project and its code may be reused.
