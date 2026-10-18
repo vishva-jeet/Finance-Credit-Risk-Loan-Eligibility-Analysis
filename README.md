@@ -1,4 +1,5 @@
-# 🏦 Paisabazaar Banking Fraud Detection
+# 🏦 Finance-Credit-Risk-Loan-Eligibility-Analysis
+
 
 A machine learning project focused on analyzing banking transaction data and identifying potentially fraudulent transactions using Python and data science techniques.
 
